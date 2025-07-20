@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Inclined/LibrCrypto/core/crypto/config"
+	"github.com/Inclineed/LibrCrypto/core/crypto/config"
 )
 
 // GenerateKeyPair generates a new Ed25519 key pair,
